@@ -1,4 +1,4 @@
-# 
+# Leve QueryMind baixador. Baixe e instale com controle de versão e guia passo a passo — rápido, seguro e fácil de usar.
 
 
 
